@@ -1,4 +1,4 @@
-package com.leovegas.wallet;
+package com.aabdelmonem.wallet;
 
 import java.io.IOException;
 

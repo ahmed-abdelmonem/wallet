@@ -1,4 +1,4 @@
-package com.leovegas.wallet.controller;
+package com.aabdelmonem.wallet.controller;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
@@ -17,10 +17,10 @@ import org.springframework.mock.web.MockHttpServletResponse;
 import org.springframework.test.web.servlet.MvcResult;
 import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 
-import com.leovegas.wallet.WalletApplicationTests;
-import com.leovegas.wallet.datatransferobject.BalanceDTO;
-import com.leovegas.wallet.datatransferobject.TransactionDTO;
-import com.leovegas.wallet.domainvalue.TransactionType;
+import com.aabdelmonem.wallet.WalletApplicationTests;
+import com.aabdelmonem.wallet.datatransferobject.BalanceDTO;
+import com.aabdelmonem.wallet.datatransferobject.TransactionDTO;
+import com.aabdelmonem.wallet.domainvalue.TransactionType;
 
 /**
 *
